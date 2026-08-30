@@ -49,8 +49,8 @@ void generateReceipt(const Billing& bill){
     cout<<setw(10)<<"Duration    :"<<bill.hours<<endl;
       cout << "-------------------------------------" << endl;
     cout<<setw(10)<<"Total Cost :"<<bill.totalCost<<endl;
-    cout<<setw(10)<<"Payment :"<<bill.payment<<endl;
-    cout<<setw(10)<<"Change :"<<bill.change<<endl;
+    cout<<setw(10)<<"Payment    :"<<bill.payment<<endl;
+    cout<<setw(10)<<"Change     :"<<bill.change<<endl;
 
       cout << "======================================" << endl;
     cout<<"\n"<<setw(10)<<"Thank You!"<<endl;
