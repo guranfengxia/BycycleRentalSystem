@@ -1,0 +1,6 @@
+1001|Wan|10203|2|Regular
+1002|ali|123|a|Regular
+1003|wan|123|1|Regular
+1004|12|12|2|Regular
+
+
